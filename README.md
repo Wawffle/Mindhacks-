@@ -6,12 +6,14 @@ Piece of Mind is a web browser landing page/startpage created with HTML and CSS.
 # How to install
 *To install as a Home Page for Chrome:*
 Settings > Show Home Button > Change New Tab > Enter the HTML file location.
+
 *To install as a New Tab for Chrome:*
 Install the <a target="_blank" href="https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en">New Tab Redirect</a> extension > Settings > More Tools > Options for New Tab Redirect > Enter the HTML file location.
 
 
 *To install as a Home Page for Firefox:*
 Ctrl+L > about:preferences > Home Page > Enter the HTML file location.
+
 *To install as a New Tab for Firefox:*
 Install the <a href="https://addons.mozilla.org/en-US/firefox/addon/new-tab-override" target="_blank">New Tab Override</a> extension > Ctrl+Shift+A > Extensions > New Tab Options > Enter the HTML file location.
 
